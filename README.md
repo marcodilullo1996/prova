@@ -210,9 +210,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+* Marco Di Lullo - marcodilullo2714@gmail.com - [LinkedIn](https://www.linkedin.com/in/marco-di-lullo-32a9241a2) 
+* Salvatore Alberto Gicchino - g.salvatore93@gmail.com  - [LinkedIn](https://www.linkedin.com/in/salvatore-gicchino-189566238)
+* Antonio Junior Spoleto - spoletoantoniojr@gmail.com
+* Maria Concetta Vitale - cvitale819@gmail.com 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
